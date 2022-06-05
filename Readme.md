@@ -1,4 +1,6 @@
-# Some notes on plated-through-hole PCB production in the home lab.
+# DIY PTH
+
+Some notes on plated-through-hole PCB production in the home lab.
 
 Good YouTubes:
 
