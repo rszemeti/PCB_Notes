@@ -1,4 +1,4 @@
-#Some notes on plated-through-hole PCB production in the home lab.
+# Some notes on plated-through-hole PCB production in the home lab.
 
 Good YouTubes:
 
@@ -8,36 +8,36 @@ and
 
 https://www.youtube.com/watch?v=EEmW4xBFiac
 
-##Cleaning:
+## Cleaning:
 
 De-ionised water. Use a water sprayer after tank wash. 
 
 Use a 1.5% NaOH and a drop of dish soap as a pre-cleaner.
 
-##Activation:
+## Activation:
 
 Micro-etch with weak Ammonium or Sodium persulphate. Wash then weak stannous chloride solution, wash, then silver nitrate solution.
 
 This should prep the surface of the vias for electroless copper. 
 The surface of the vias when activated is reactive and sensitive,  it needs the electroless copper applied as soon as possible.
 
-###Recipe for Stannous Chloride activation solution:
+### Recipe for Stannous Chloride activation solution:
 
--Tin chloride (Sncl2.2H2O) 30 to 50g/L
--Hydrochloric acid 50 to 100ml/L
--Tin particles 3 to 5g/l
+- Tin chloride (Sncl2.2H2O) 30 to 50g/L
+- Hydrochloric acid 50 to 100ml/L
+- Tin particles 3 to 5g/l
 
 When preparing, first mix water and hydrochloric acid, then add stannous chloride and stir to dissolve. Tin particles can prevent Sn2+ oxidation.
 
-###Good electroless copper recipe:
+### Good electroless copper recipe:
 
 (by weight)
--1.33% CuSO4
--1.8% EDTA  ([CH2N(CH2CO2H)2]2)
+- 1.33% CuSO4
+- 1.8% EDTA  ([CH2N(CH2CO2H)2]2)
 Premix the above, can be stored.
 
 When ready to use:
--Add NaOH or KaOH to bring PH to around 13.0
+- Add NaOH or KaOH to bring PH to around 13.0
 
 If using NaOH, around 1.5% is about right, but use test strips to confirm.
 
