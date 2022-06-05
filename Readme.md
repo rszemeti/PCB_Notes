@@ -23,9 +23,9 @@ The surface of the vias when activated is reactive and sensitive,  it needs the 
 
 Recipe for Stannous Chloride activation solution:
 
-Tin chloride (Sncl2.2H2O) 30~50g/L
-Hydrochloric acid 50~100ml/L
-Tin particles 3~5g/l
+Tin chloride (Sncl2.2H2O) 30 to 50g/L
+Hydrochloric acid 50 to 100ml/L
+Tin particles 3 to 5g/l
 
 When preparing, first mix water and hydrochloric acid, then add stannous chloride and stir to dissolve. Tin particles can prevent Sn2+ oxidation.
 
