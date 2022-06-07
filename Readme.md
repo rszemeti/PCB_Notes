@@ -43,7 +43,9 @@ When ready to use:
 
 If using NaOH, around 1.5% is about right, but use test strips to confirm.
 
-Add 10% by volume of 38% formaldehyde. Once this stage is done, you have very little time. 
+- Add 10% by volume of 38% formaldehyde. 
+
+Once this stage is done, you have very little time. 
 Keep the solution at around room temperature, you have around 30 minutes at most. 
 The solution is desperately trying to fall out of solution, it will not store.
 
