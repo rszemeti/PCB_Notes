@@ -16,6 +16,16 @@ De-ionised water. Use a water sprayer after tank wash.
 
 Use a 1.5% NaOH and a drop of dish soap as a pre-cleaner.
 
+## Activation with conductive ink
+
+Liquiwire from either ebay (https://www.ebay.co.uk/itm/223903744472) or from https://liquiwire.tech/products/liquiwire-conductive-ink 
+
+### Method
+
+Paint onto board surface and use a squeegee to push it through all the holes.  Lightly blow on the board to clear the holes. No holes should be left "plugged" with ink.  Put in a warm place, eg on a radiator, or a warm oven for 10 minutes at 80C, then 20 minutes at 120C.
+
+I found small holes (0.4mm) plated perfectly in acid copper at around 10A per square foot (10 mA per sq cm) for around 30 minutes.  Largeer holes (1mm) struggled a little.
+
 ## Activation:
 
 Micro-etch with weak Ammonium or Sodium persulphate. Wash then weak stannous chloride solution, wash, then silver nitrate solution.
